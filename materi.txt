@@ -1,0 +1,20 @@
+MVC (Models Views Controllers) merupakan konsep pola arsitektur pada perancangan perangkat lunak berorientasi objek. yang bertujuan untuk memisahkan antara tampilan (views), data (Models) dan Proses (Controllers).
+
+----
+secara garis besar untuk membuat aplikasi mvc kita menggunakan 2 folder utama yaitu app dan public.
+folder app berisi folder-folder mvc dan kode utama kita. folder public berisi file yang bisa diakses oleh user/client.
+
+----
+
+untuk mengatur supaya user tidak bisa mengakses folder app kita bisa menggunakan file .htaccess yang berguna untuk memodifikasi konfigurasi server appache kita dan itu bisa kita lakukan perfolder
+
+
+
+
+
+
+
+
+
+
+
